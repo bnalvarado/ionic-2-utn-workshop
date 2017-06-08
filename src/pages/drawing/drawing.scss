@@ -1,0 +1,10 @@
+page-drawing {
+  .canvas-container{
+    width: 100% !important;
+    border: solid 1px #0748bb;
+    border-radius: 0 0 5px 5px;
+  }
+  canvas{
+    width: 100% !important;
+  }
+}
